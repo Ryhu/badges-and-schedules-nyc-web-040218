@@ -8,7 +8,7 @@ def batch_badge_creator(arr)
     result.push(badge_maker(name))
     
   end
-  
+  return result 
 end
 
 
