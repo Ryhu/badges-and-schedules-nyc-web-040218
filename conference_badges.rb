@@ -13,7 +13,7 @@ end
 
 def assign_rooms(speakers)
   result = []
-  for i in 1..7 do |i|
+  for i in 1..7 do
     result.push(  "Hello, #{speakers[i-1]}! You'll be assigned to room #{i}!"  )
   end
   return result
