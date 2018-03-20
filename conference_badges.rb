@@ -11,4 +11,10 @@ def batch_badge_creator(arr)
   return result 
 end
 
-
+def assign_rooms(speakers)
+  result = []
+  for i in 1..7 do |i|
+    
+  end
+  return result
+end
