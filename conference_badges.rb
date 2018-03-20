@@ -21,5 +21,6 @@ end
 
 
 def printer(arr)
+  batch_badge_creator(arr)
   
 end
